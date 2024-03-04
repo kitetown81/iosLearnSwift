@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "7d905f721e0540b3a6a6298fc4cbd4a6_tplv-dy-aweme-images_q75.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
